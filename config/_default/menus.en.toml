@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Notes"
-  PageRef = "note.md"
+  PageRef = "/note"
   weight = 20
 
 #[[main]]

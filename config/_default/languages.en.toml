@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "QHuang's Blog"
 
 [params]
   displayName = "EN"
@@ -14,16 +14,16 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
+[params.author]
+  name = "QHuang's Blog"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
-#   links = [
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://link-to-some-website.com/" },
+    { link = "https://juicenotbad.github.io/QingyeHuang.github.io/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -76,4 +76,4 @@ title = "Blowfish"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+   ]
