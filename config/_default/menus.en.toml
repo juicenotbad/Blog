@@ -70,6 +70,16 @@
   pageRef = "/"
   weight = 10
 
+[[footer]]
+  name = "Email"
+  url = "mailto:22301050039@m.fudan.edu.cn"
+  weight = 20
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
+
 # [[footer]]
 #   name = "Categories"
 #   pageRef = "categories"
